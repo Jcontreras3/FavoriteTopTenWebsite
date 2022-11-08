@@ -1,0 +1,20 @@
+.Bg1{
+    background-image: url("../assets/homePageImg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.JovannBtn{
+    margin-right: 50px;
+}
+.CarolineBtn{
+    margin-right: 100px;
+}
+.navTitle{
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    color: white;
+}
+.navBg{
+    background-color: #4C1C06;
+}

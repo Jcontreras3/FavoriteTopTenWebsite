@@ -18,3 +18,22 @@
 .navBg{
     background-color: #4C1C06;
 }
+
+.homeImg1{
+    width: 500px;
+    height: 300px;
+    margin-top: 230px;
+}
+.homeImg2{
+    width: 500px;
+    height: 300px;
+    margin-top: 230px;
+}
+.dog{
+    justify-content: center;
+    display: flex;
+}
+.malone{
+    justify-content: center;
+    display: flex;
+}

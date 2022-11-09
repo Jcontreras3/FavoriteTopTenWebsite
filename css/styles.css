@@ -1,41 +1,42 @@
-.Bg1{
-    background-image: url("../assets/homePageImg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+.Bg1 {
+  background-image: url("../assets/homePageImg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.JovannBtn{
-    margin-right: 50px;
-    border-radius: 20px;
+.Btn {
+  margin-right: 50px;
+  border-radius: 20px;
+  background-color: #937363;
+  color: white;
+  box-shadow: 5px 2px black;
+  border-color: #937363;
+  text-shadow: 1px 1px black;
 }
-.CarolineBtn{
-    margin-right: 100px;
-    border-radius: 20px;
+.navTitle {
+  margin-left: 100px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  color: white;
 }
-.navTitle{
-    margin-left: 100px;
-    margin-top: 60px;
-    margin-bottom: 40px;
-    color: white;
-}
-.navBg{
-    background-color: #4C1C06;
+.navBg {
+  background-color: #4c1c06;
 }
 
-.homeImg1{
-    width: 500px;
-    height: 300px;
-    margin-top: 230px;
+.homeImg1 {
+  width: 500px;
+  height: 300px;
+  margin-top: 230px;
 }
-.homeImg2{
-    width: 500px;
-    height: 300px;
-    margin-top: 230px;
+.homeImg2 {
+  width: 500px;
+  height: 300px;
+  margin-top: 230px;
 }
-.dog{
-    justify-content: center;
-    display: flex;
+.dog {
+  justify-content: center;
+  display: flex;
 }
-.malone{
-    justify-content: center;
-    display: flex;
+.malone {
+  justify-content: center;
+  display: flex;
 }

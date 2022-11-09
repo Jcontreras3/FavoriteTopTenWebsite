@@ -78,6 +78,37 @@
   );
 }
 
+.cardRow1{
+    justify-content: center;
+    display: flex;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.cardRow2{
+    justify-content: center;
+    display: flex;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.col-2{
+    justify-content: center;
+    display: flex;
+    margin-left: 30px;
+}
+
+.imgCard{
+    border-radius: 30px;
+    width: 210px;
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+.card{
+    background-color: #F9EBD7;
+    border-radius: 30px;
+}
+
 /* Caroline Css  */
 
 .carolsbg{

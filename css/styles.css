@@ -122,8 +122,31 @@
 /* Caroline Css  */
 
 .carolsbg{
-  background: rgb(76,28,6);
-  background: linear-gradient(0deg, rgba(76,28,6,1) 0%, rgba(195,163,124,1) 100%);
-  
-  
+  background: rgb(66, 36, 0);
+  background: linear-gradient(
+    0deg,
+    rgba(66, 36, 0, 1) 31%,
+    rgba(204, 182, 135, 1) 100%
+  );
+}
+
+.row2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.row3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.card-img-top{
+  height: 200px;
 }

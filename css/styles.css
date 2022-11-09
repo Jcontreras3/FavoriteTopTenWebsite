@@ -59,6 +59,7 @@
 .rowBtn {
   justify-content: center;
   display: flex;
+  margin-top: 20px;
 }
 .dog {
   justify-content: center;

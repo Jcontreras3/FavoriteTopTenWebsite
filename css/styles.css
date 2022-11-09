@@ -2,6 +2,7 @@
   background-image: url("../assets/homePageImg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 50rem;
 }
 .Btn {
   margin-right: 50px;
@@ -11,6 +12,16 @@
   box-shadow: 5px 2px black;
   border-color: #937363;
   text-shadow: 1px 1px black;
+  width: 15rem;
+}
+.Btn2 {
+  border-radius: 20px;
+  background-color: #937363;
+  color: white;
+  box-shadow: 1px 2px 1px black;
+  border-color: #937363;
+  text-shadow: 1px 1px black;
+  margin-top: 20px;
 }
 .navTitle {
   margin-left: 100px;
@@ -23,18 +34,28 @@
 }
 
 .homeImg1 {
-  width: 500px;
+  width: 350px;
   height: 300px;
-  margin-top: 230px;
+  
+  box-shadow: 5px 5px 5px black;
 }
 .homeImg2 {
-  width: 500px;
+  width: 350px;
   height: 300px;
-  margin-top: 230px;
+  
+  box-shadow: 5px 5px 5px black;
+}
+.rowImg{
+    margin-top: 150px;
+}
+.rowBtn{
+    justify-content: center;
+    display: flex;
 }
 .dog {
   justify-content: center;
   display: flex;
+  
 }
 .malone {
   justify-content: center;

@@ -145,6 +145,9 @@
   justify-content: space-evenly;
 
 }
+.card-title{
+  font-size: 18px;
+}
 
 .card-img-top{
   height: 200px;
